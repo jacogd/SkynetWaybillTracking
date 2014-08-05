@@ -1,0 +1,12 @@
+﻿html, body {
+    height: 100%;
+}
+
+div {
+    height: auto;
+}
+
+object {
+    width: 100%;
+    min-height: 100%;
+}       
